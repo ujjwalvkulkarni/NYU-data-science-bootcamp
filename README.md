@@ -1,2 +1,2 @@
 # data-science-bootcamp
-Data Science Bootcamp Week 1
+Data Science Bootcamp Weekly tasks
